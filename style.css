@@ -190,6 +190,7 @@ nav {
 
 .cart-box7 a {
     text-decoration: none;
+    padding-top: 10px;
     color: white;
 }
 
@@ -312,6 +313,8 @@ nav {
     text-decoration: none;
     color:white;
     font-size: 13px;
+    padding-top: 6px;
+    font-weight: 500;
 }
 .footer2{
     color: white;
@@ -320,6 +323,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 .footer2 ul p{
     font-weight: 700;
