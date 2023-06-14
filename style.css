@@ -266,7 +266,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     background-color: #c0cad4;
-    background-image: linear-gradient(#f0ddbd,#c0cad4); 
+    background-image: linear-gradient(rgba(240, 221, 189, 0.207),#c0cad4); 
     justify-content: space-evenly;
     padding-bottom: 20px;
 }
