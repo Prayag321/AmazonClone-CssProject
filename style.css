@@ -266,7 +266,7 @@ nav {
     display: flex;
     flex-wrap: wrap;
     background-color: #c0cad4;
-    background-image: linear-gradient(rgba(240, 221, 189, 0.207),#c0cad4); 
+    background-image: linear-gradient(rgb(240, 221, 189),#c0cad4); 
     justify-content: space-evenly;
     padding-bottom: 20px;
 }
@@ -312,6 +312,8 @@ nav {
     text-decoration: none;
     color:white;
     font-size: 13px;
+    padding-top: 6px;
+    font-weight: 500;
 }
 .footer2{
     color: white;
@@ -320,6 +322,7 @@ nav {
     justify-content: space-evenly;
     align-items: center;
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 .footer2 ul p{
     font-weight: 700;
